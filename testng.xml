@@ -1,0 +1,8 @@
+<suite name="ParallelExecution" >
+    <test name="Setmore API Automation">
+        <classes>
+            <class name="base.BaseTest"/>
+            <class name="tests.CustomerTests"/>
+        </classes>
+    </test>
+</suite>
